@@ -1,0 +1,39 @@
+{
+    "name": "bean-project/thuvien-template-default",
+    "type": "symfony",
+    "description": "Default Twig Template for TVCG",
+    "keywords": ["twig", "thu-vien-cong-giao"],
+    "license": "MIT",
+    "repositories":[
+      {
+        "type": "vcs",
+        "url": "https://github.com/bean-project/ExcelBundle"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Peter Pierre",
+        "email": "peter@bean-project.org"
+      }
+    ],
+    "require": {
+        "symfony/twig-bundle": "^4.0"
+    },
+    "require-dev": {
+      
+    },
+    "suggest": {
+      
+    },
+    "conflict": {
+      
+    },    
+    "autoload": {
+      
+    },
+    "extra": {
+      "branch-alias": {
+        "dev-master": "0.1.x-dev"
+      }
+    }
+  }
